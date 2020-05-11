@@ -4,3 +4,5 @@
 
 ![](https://i.imgur.com/5Y5KQua.png)
 
+Generate randomized, solvable mazes with a surprise at the end.
+

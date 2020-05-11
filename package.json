@@ -1,0 +1,22 @@
+{
+  "name": "mazes",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/5Y5KQua.png)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emboiko/JS_Mazes.git"
+  },
+  "author": "emboiko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emboiko/JS_Mazes/issues"
+  },
+  "homepage": "https://github.com/emboiko/JS_Mazes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
